@@ -1,4 +1,4 @@
-# AWS S3 Log Migration script
+# AWS S3 Log Migration Script
 ### Automated script for sending logs from EC2 to S3
 
 Small bash script for running on a schedule inside an EC2 instance, for sending
